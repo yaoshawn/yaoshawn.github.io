@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition      against accepting unsolicited donations from donors in such states who approach us with offers to donate.',
   'example3':
-      'It had begun so uneventfully, so precisely like a hundred other evenings, with Nana putting on the water for Michael's bath and carrying him to it on her back.'      
+      'It had begun so uneventfully, so precisely like a hundred other evenings, with Nana putting on the water for Michaels bath and carrying him to it on her back.'      
 };
 
 function status(statusText) {
