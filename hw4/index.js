@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'I turned her gently over, placed my hands upon her breast to calm her and keep her down, and looked into her face. Her eyes were dilated and       wild, and she constantly uttered piercing shrieks, and repeated the words,',
   'example2':
-      'But after this Doctrine, "that the Church now Militant, is the Kingdome of God spoken of in the Old and New Testament," was received in the World;',
+      'So it appeareth plainly, to my understanding, both from Reason, and Scripture, that the Soveraign Power, whether placed in One Man, as in        Monarchy, or in one Assembly of men, as in Popular, and Aristocraticall Common-wealths, is as great, as possibly men can be imagined to make it.',
   'example3':
       'It had begun so uneventfully, so precisely like a hundred other evenings, with Nana putting on the water for Michaels bath and carrying him to it on her back.'      
 };
