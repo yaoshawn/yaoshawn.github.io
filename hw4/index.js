@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'I turned her gently over, placed my hands upon her breast to calm her and keep her down, and looked into her face. Her eyes were dilated and       wild, and she constantly uttered piercing shrieks, and repeated the words,',
   'example2':
-      'While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition      against accepting unsolicited donations from donors in such states who approach us with offers to donate.',
+      'But after this Doctrine, "that the Church now Militant, is the Kingdome of God spoken of in the Old and New Testament," was received in the World;',
   'example3':
       'It had begun so uneventfully, so precisely like a hundred other evenings, with Nana putting on the water for Michaels bath and carrying him to it on her back.'      
 };
